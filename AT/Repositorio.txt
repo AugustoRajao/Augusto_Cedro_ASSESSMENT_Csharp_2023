@@ -1,0 +1,8 @@
+ ID: 01, Nome: joao, Peso: 101, Altura: 10, Idade: 18, Data de Nascimento: 06/06/2005 00:00:00, Cliente do Consultorio: False 
+ ID: 30, Nome: augusto, Peso: 100, Altura: 200, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: False 
+ ID: 450, Nome: gabriela, Peso: 20, Altura: 20, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: True 
+ ID: 13, Nome: joao, Peso: 2, Altura: 2, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: True 
+ ID: 20, Nome: rafael, Peso: 111, Altura: 111, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: False 
+ ID: 23, Nome: moneto, Peso: 20133, Altura: 312, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: False 
+ ID: 23, Nome: Lamngoghuioni, Peso: 123, Altura: 231, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: False 
+ ID: 213, Nome: samambaia, Peso: 12, Altura: 1233, Idade: 18, Data de Nascimento: 01/02/2005 00:00:00, Cliente do Consultorio: False 
